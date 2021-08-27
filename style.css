@@ -1,0 +1,53 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#note
+{
+color: black;
+font-size: 15px;
+}
+body
+{
+background-size: cover;
+}
+.speed
+{
+float: left;
+}
+.speed_img
+{
+width: 200px;
+border-radius: 100px;
+}
+#Sp
+{
+font-size: 23px;
+margin: 15px;
+}
+.volume
+{
+float: right;
+}
+.volume_img
+{
+width: 200px;
+border-radius: 100px;
+}
+#Vl
+{
+font-size: 23px;
+margin: 15px;
+}
+.play_button
+{
+width: 130px;
+font-size: 25px;
+}
+canvas
+{
+border: 5px solid black;
+border-radius: 20px;
+}
